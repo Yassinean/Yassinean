@@ -9,3 +9,11 @@
     
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,tailwind,php,mysql,linux,vscode,wordpress,git,github,figma)](https://skills.thijs.gg)
+
+
+## Education
+<div>
+   <a href='https://youcode.ma/'>
+     <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:100px'>
+  </a>
+</div>
