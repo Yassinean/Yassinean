@@ -9,7 +9,7 @@
   <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" height="175px"/></a>
     
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,tailwind,php,mysql,linux,vscode,wordpress,git,github,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,tailwind,php,mysql,linux,vscode,wordpress,git,github,figma,photoshop,illustrator)](https://skills.thijs.gg)
 
 
 ## Education
